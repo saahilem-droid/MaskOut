@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: 0df888e38baf9584090ee45670ee984b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7447265965970954411
+    second: Crown_player 1_0
+  - first:
+      213: -5842740083360837621
+    second: Crown_player 1_1
+  - first:
+      213: -4890951500257945771
+    second: Crown_player 1_2
+  - first:
+      213: 4738818604563262577
+    second: Crown_player 1_3
+  - first:
+      213: 3137781484866369395
+    second: Crown_player 1_4
+  - first:
+      213: 1181581746603794963
+    second: Crown_player 1_5
+  - first:
+      213: -7794195908992630806
+    second: Crown_player 1_6
+  - first:
+      213: -9136341433587738038
+    second: Crown_player 1_7
+  - first:
+      213: -3773744036259191975
+    second: Crown_player 1_8
+  - first:
+      213: -136922710004863102
+    second: Crown_player 1_9
+  - first:
+      213: 864152260358136773
+    second: Crown_player 1_10
+  - first:
+      213: 2956126825582162492
+    second: Crown_player 1_11
+  - first:
+      213: 1178003091748544279
+    second: Crown_player 1_12
+  - first:
+      213: 5515796226249992291
+    second: Crown_player 1_13
+  - first:
+      213: -1472700082694951946
+    second: Crown_player 1_14
+  - first:
+      213: -7788047012657972636
+    second: Crown_player 1_15
+  - first:
+      213: 3014257053564226820
+    second: Crown_player 1_16
+  - first:
+      213: -5339999188431367106
+    second: Crown_player 1_17
+  - first:
+      213: -2420948256200308948
+    second: Crown_player 1_18
+  - first:
+      213: 8295725689289627675
+    second: Crown_player 1_19
+  - first:
+      213: -21025422748596668
+    second: Crown_player 1_20
+  - first:
+      213: -3900788708066940195
+    second: Crown_player 1_21
+  - first:
+      213: -8597572910122215272
+    second: Crown_player 1_22
+  - first:
+      213: -727613618074492324
+    second: Crown_player 1_23
+  - first:
+      213: 8239596375128615844
+    second: Crown_player 1_24
+  - first:
+      213: -1248298450120289657
+    second: Crown_player 1_25
+  - first:
+      213: 7885098075763569163
+    second: Crown_player 1_26
+  - first:
+      213: -7857448452104092571
+    second: Crown_player 1_27
+  - first:
+      213: -2384288750022702697
+    second: Crown_player 1_28
+  - first:
+      213: 6682691051024971550
+    second: Crown_player 1_29
+  - first:
+      213: 7764292604017106190
+    second: Crown_player 1_30
+  - first:
+      213: 6293898925806523511
+    second: Crown_player 1_31
+  - first:
+      213: -1328580895540891941
+    second: Crown_player 1_32
+  - first:
+      213: -6278725226127287154
+    second: Crown_player 1_33
+  - first:
+      213: -5780486496280599873
+    second: Crown_player 1_34
+  - first:
+      213: 2065569010891870887
+    second: Crown_player 1_35
+  - first:
+      213: -6465442081011191876
+    second: Crown_player 1_36
+  - first:
+      213: 1788213970879920132
+    second: Crown_player 1_37
+  - first:
+      213: 370044252270727121
+    second: Crown_player 1_38
+  - first:
+      213: -3973674554763052768
+    second: Crown_player 1_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crown_player 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 718
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba81e8150f00a5760800000000000000
+      internalID: 7447265965970954411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_player 1_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 720
+        width: 279
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b005750b9da6aeea0800000000000000
+      internalID: -5842740083360837621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_player 1_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 716
+        width: 254
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557167d1689df1cb0800000000000000
+      internalID: -4890951500257945771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_player 1_3
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 720
+        width: 269
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c610cd96aa3c140800000000000000
+      internalID: 4738818604563262577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_player 1_4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 720
+        width: 262
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f144c2a3ab8b20800000000000000
+      internalID: 3137781484866369395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_player 1_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 716
+        width: 262
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312a7679652d56010800000000000000
+      internalID: 1181581746603794963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_player 1_6
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 719
+        width: 198
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeff0bebd1475d390800000000000000
+      internalID: -7794195908992630806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 654e33c80f701334c8893f8f86c70e7a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crown_player 1_0: 7447265965970954411
+      Crown_player 1_1: -5842740083360837621
+      Crown_player 1_10: 864152260358136773
+      Crown_player 1_11: 2956126825582162492
+      Crown_player 1_12: 1178003091748544279
+      Crown_player 1_13: 5515796226249992291
+      Crown_player 1_14: -1472700082694951946
+      Crown_player 1_15: -7788047012657972636
+      Crown_player 1_16: 3014257053564226820
+      Crown_player 1_17: -5339999188431367106
+      Crown_player 1_18: -2420948256200308948
+      Crown_player 1_19: 8295725689289627675
+      Crown_player 1_2: -4890951500257945771
+      Crown_player 1_20: -21025422748596668
+      Crown_player 1_21: -3900788708066940195
+      Crown_player 1_22: -8597572910122215272
+      Crown_player 1_23: -727613618074492324
+      Crown_player 1_24: 8239596375128615844
+      Crown_player 1_25: -1248298450120289657
+      Crown_player 1_26: 7885098075763569163
+      Crown_player 1_27: -7857448452104092571
+      Crown_player 1_28: -2384288750022702697
+      Crown_player 1_29: 6682691051024971550
+      Crown_player 1_3: 4738818604563262577
+      Crown_player 1_30: 7764292604017106190
+      Crown_player 1_31: 6293898925806523511
+      Crown_player 1_32: -1328580895540891941
+      Crown_player 1_33: -6278725226127287154
+      Crown_player 1_34: -5780486496280599873
+      Crown_player 1_35: 2065569010891870887
+      Crown_player 1_36: -6465442081011191876
+      Crown_player 1_37: 1788213970879920132
+      Crown_player 1_38: 370044252270727121
+      Crown_player 1_39: -3973674554763052768
+      Crown_player 1_4: 3137781484866369395
+      Crown_player 1_40: -2104378708
+      Crown_player 1_5: 1181581746603794963
+      Crown_player 1_6: -7794195908992630806
+      Crown_player 1_7: -9136341433587738038
+      Crown_player 1_8: -3773744036259191975
+      Crown_player 1_9: -136922710004863102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
